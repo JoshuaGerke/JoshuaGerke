@@ -17,7 +17,7 @@
   Hi, I'm Joshua Gerke, Frontend Designer, Designer & Software Developer from Germany
   <br>
   <br>
-  🔬 I'm currently I currently work as a freelancer for several software companies.
+  🔬 I'm currently work as a freelancer for several software companies.
   <br>
   🎓 I already have more than 5 years of experience in the industry.
   <br>
