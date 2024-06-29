@@ -14,14 +14,14 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Joshua Gerke, Frontend Designer, Designer & Software Developer from Germany
+  Hi, I'm Joshua Gerke, Frontend Designer, Fullstack Developer & Graphics Designer from Germany
   <br>
   <br>
   🔬 I currently work as a freelancer for several software companies.
   <br>
-  🎓 I already have more than 5 years of experience in the industry.
+  🎓 I already have more than 7 years of experience in the industry.
   <br>
-  🎓 I have already managed my own companies for 3 years.
+  🎓 I have already managed my own companies for 4 years.
   <br>
   💻 I love writing code and learn anything about it
   <br>
