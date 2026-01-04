@@ -1,83 +1,106 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joshua-gerke.joshua-gerke">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Joshua+Gerke....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Joshua+Gerke;Fullstack+Dev+from+Germany;Welcome+to+my+profile!&center=true&size=30">
   </a>
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/joshua-gerke-365444212/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/Joshua_Gerke" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a title="Discord Profile"><img width="22" src="images/discord.svg"> Joshua Gerke#7546</a></code>
-</h5>
-<br>
 <p align="center">
-  Hi, I'm Joshua Gerke, Frontend Designer, Fullstack Developer & Graphics Designer from Germany
+  <a href="https://www.linkedin.com/in/joshua-gerke-365444212/" title="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.hackerrank.com/Joshua_Gerke" title="HackerRank Profile">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="mailto:kontakt@joshua-gerke.de" title="Email Me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  Hi, I'm <strong>Joshua Gerke</strong>, a passionate Frontend Designer, Fullstack Developer & Graphic Designer from Germany.
   <br>
+  I focus on creating interactive digital experiences on the web, working with brands and agencies to achieve functional and user-friendly applications.
+  <br><br>
+  🔬 <strong>Freelancer</strong> working for several software companies.
   <br>
-  🔬 I currently work as a freelancer for several software companies.
+  🎓 <strong>7+ Years of Experience</strong> in the industry.
   <br>
-  🎓 I already have more than 7 years of experience in the industry.
+  💼 <strong>Founder</strong> managing my own companies for over 4 years.
   <br>
-  🎓 I have already managed my own companies for 4 years.
+  💻 I love writing code and learning everything about it.
   <br>
-  💻 I love writing code and learn anything about it
+  📫 Reach me at: <a href="mailto:kontakt@joshua-gerke.de">kontakt@joshua-gerke.de</a>
   <br>
-  📚 I am ready to learn new things for new projects.
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/JoshuaGerke/JoshuaGerke/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: kontakt@joshua-gerke.de">kontakt@joshua-gerke.de</a>
+  🌐 Portfolio: <a href="https://joshua-gerke.de">joshua-gerke.de</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+
+<h2 align="center">🚀 My Ventures 🚀</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🐺 Wolfscastle</h3>
+        <p><strong>German Software Development Studio</strong></p>
+        <p>Professional Software Development & Design solutions.</p>
+        <a href="https://wolfscastle.de">🌐 Visit wolfscastle.de</a>
+      </td>
+      <td align="center" width="50%">
+        <h3>🎮 RespawnHost</h3>
+        <p><strong>Next Gen Gameserver Hosting</strong></p>
+        <p>Innovative hosting model: <em>You only pay when the server is online.</em></p>
+        <a href="https://respawnhost.com">🌐 Visit RespawnHost.com</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr>
+
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-    <code><img title="TailwindCSS" height="25" src="images/tailwind.svg"></code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Javascript" title="Javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="Typescript" title="Typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" title="SASS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" title="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="VueJS" title="VueJS"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM" title="NPM"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="Gulp" title="Gulp"/>
 </p>
+
 <hr>
 
 <h2 align="center">⚡ Stats (Public) ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=joshuagerke&theme=react&border=61dafb&hide_border=true" alt="joshuagerke" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=joshuagerke&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuagerke&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=joshuagerke&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=joshuagerke&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=joshuagerke&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuagerke&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+<br>
 
 <hr>
-
